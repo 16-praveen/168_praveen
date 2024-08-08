@@ -2,12 +2,12 @@ import React from "react";
 
 
 
-function Pah1() {
+function React() {
     return(
         <>
             <div>
                 <h3>
-                    practise at home 1
+                    practise at home 
                 </h3>
             </div>
         
@@ -15,4 +15,4 @@ function Pah1() {
     )    
 }
 
-export default Pah1;
+export default React;
