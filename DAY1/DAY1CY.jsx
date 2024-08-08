@@ -1,15 +1,15 @@
 import React from "react";
 
 
-function Day1CY(){
+function React(){
 
     const checkFunction = ()=>{
-        const name1 = "muruga" ;
-        const name2 = "mugesh" ;
+        const name1 = "praveen" ;
+        const name2 = "mohan" ;
 
         
-        const name1Obj = {n1:"muruga"};
-        const name2Obj = {n2:"mugesh"};
+        const name1Obj = {n1:"praveen"};
+        const name2Obj = {n2:"mohan"};
 
         
         console.log(name1 === name1Obj.n1);
@@ -28,4 +28,4 @@ function Day1CY(){
     )
 }
 
-export default Day1CY;
+export default React;
